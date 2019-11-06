@@ -6,7 +6,7 @@ externalIP = "127.0.0.1"
 port = 54823
 '''
 #Real robot
-externalIP = "192.168.0.102"
+externalIP = "192.168.0.108"
 port = 9559
 '''
 
